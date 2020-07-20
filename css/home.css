@@ -1,0 +1,49 @@
+.image{
+	background-image: url(../image/agri_8.png);
+	background-size: 100% 100%;
+}
+#cd{
+	height: 260px;
+	background-image: url(../image/nvidia_28.jpg);
+	background-size: 300px 300px ;
+}
+#cd1{
+	height: 260px;
+
+	background-image: url(../image/nvidia_28.jpg);
+	background-size: 300px 300px ;
+	
+}
+#cd2{
+	background-image: url(../image/nvidia_28.jpg);
+	background-size: 300px 300px ;
+}
+#cd3{
+	background-image: url(../image/nvidia_28.jpg);
+	background-size: 300px 300px ;
+}
+#cd4{
+	background-image: url(../image/nvidia_28.jpg);
+	background-size: 300px 300px ;
+}
+#cd5{
+	background-image: url(../image/nvidia_28.jpg);
+	background-size: 300px 300px ;
+}
+#cd6{
+	background-image: url(../image/nvidia_28.jpg);
+	background-size: 300px 300px ;
+}
+#cd7{
+	background-image: url(../image/nvidia_28.jpg);
+	background-size: 300px 300px ;
+}
+#cd8{
+	background-image: url(../image/nvidia_28.jpg);
+	background-size: 300px 300px ;
+}
+.aa:hover{
+	transition: 0.9s;
+	border-radius: 30px;
+	border: 2px /*solid #000*/;
+}
