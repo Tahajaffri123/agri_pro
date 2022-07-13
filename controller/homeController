@@ -1,0 +1,7 @@
+const routes=require("express").Router();
+
+routes.get("/",(req,res)=>{
+    let pagedata={pagename:"home/home"}
+    res.render("layout",pagedata);
+})
+module.exports= routes;
